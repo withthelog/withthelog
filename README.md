@@ -1,3 +1,4 @@
-𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚊 𝚗𝚊𝚖𝚎𝚕𝚎𝚜𝚜 𝚠𝚘𝚛𝚕𝚍...
+Creature who's studying programming on high school.
+Currently learning: *C#, HTML, CSS, JS, Android Studio*
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withthelog&layout=compact&theme=dark)
